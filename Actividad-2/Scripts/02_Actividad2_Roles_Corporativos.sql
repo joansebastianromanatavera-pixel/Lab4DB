@@ -1,7 +1,7 @@
 -- Practica 4 - Actividad 2: Roles corporativos
 -- Requiere: 01_Actividad1_Usuarios_Privilegios.sql
 
-USE Guia_3;
+USE Guia_4;
 
 -- 1. Crear roles
 CREATE ROLE IF NOT EXISTS 'rol_admin', 'rol_consultor', 'rol_operador';
