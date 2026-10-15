@@ -1,7 +1,7 @@
 -- Tarea previa - Punto 1: GRANT vs REVOKE (5 ejemplos)
 -- Requiere: 01_Actividad1_Usuarios_Privilegios.sql, 02_Actividad2_Roles_Corporativos.sql
 
-USE Guia_3;
+USE Guia_4;
 
 -- Ejemplo 1: privilegio puntual sobre una tabla
 GRANT SELECT ON Guia_3.Estudiante TO 'analista'@'localhost';
