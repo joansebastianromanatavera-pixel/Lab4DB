@@ -3,7 +3,7 @@
 -- Ejecutar como root. Solo consultas de lectura: no modifica nada.
 -- Cada bloque = una captura para el informe.
 
-USE Guia_3;
+USE Guia_4;
 
 -- ============================================================================
 -- 1. Inventario de cuentas (usuarios y roles)
