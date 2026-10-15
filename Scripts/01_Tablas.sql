@@ -1,6 +1,6 @@
 create database if not exists Guia_3;
 
-USE Guia_3;
+USE Guia_4;
 
 drop table if exists Matricula;
 drop table if exists Grupo;
